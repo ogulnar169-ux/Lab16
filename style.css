@@ -1,2 +1,7 @@
-body { background: lightblue; }
-h1 { color: darkred; }
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: darkred;
+    font-family: Arial;
+}
